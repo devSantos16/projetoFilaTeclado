@@ -1,3 +1,4 @@
+#include <stdbool.h>
 typedef struct tecla{
     char bind;
     struct tecla* proximo;
@@ -5,4 +6,7 @@ typedef struct tecla{
 
 Tecla* criar(char caracter);
 void imprimir(Tecla* header);
-void adicionarAoFinal(Tecla *head, char caracter);
+void Enfileirar(Tecla *header, char caracter);
+Tecla* Esvazia(Tecla* header);
+bool Vazia(Tecla* header);
+char Primeiro(Tecla* header);

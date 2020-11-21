@@ -36,11 +36,8 @@
 		</Unit>
 		<Unit filename="tecla.c">
 			<Option compilerVar="CC" />
-			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
-		<Unit filename="tecla.h">
-			<Option target="&lt;{~None~}&gt;" />
-		</Unit>
+		<Unit filename="tecla.h" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>

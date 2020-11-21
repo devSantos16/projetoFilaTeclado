@@ -17,11 +17,21 @@ int main()
         }
         // Se não, Adiciona ao final
         else {
-            adicionarAoFinal(header, msg[i]);
+            Enfileirar(header, msg[i]);
         }
     }
-    // Imprime
+
     imprimir(header);
+
+    header=Esvazia(header);
+
+    imprimir(header);
+
+    printf("\nCriando nova lista com a,b,c\n");
+    header = criar('a');
+    Enfileirar(header, 'b');
+    Enfileirar(header, 'c');
+    printf("\nValor Primeiro: %c\n",Primeiro(header));
 }
 
 
