@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1606605959 source:c:\users\nel_2\documents\projetofilateclado\filateclado\filatecladoarray\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Tecla.h"
+
+1606605830 c:\users\nel_2\documents\projetofilateclado\filateclado\filatecladoarray\tecla.h
+	<stdbool.h>
+
+1606605653 source:c:\users\nel_2\documents\projetofilateclado\filateclado\filatecladoarray\tecla.c
+	<stdio.h>
+	<stdlib.h>
+	"Tecla.h"
+
