@@ -31,6 +31,10 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="Tecla.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Tecla.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>

@@ -13,3 +13,4 @@ void esvaziar(FilaTeclas *header);
 int vazia(FilaTeclas *header);
 int cheia(FilaTeclas *header);
 void imprimir(FilaTeclas *header);
+char desenfileira(FilaTeclas *header);
