@@ -12,3 +12,16 @@
 	<stdlib.h>
 	"Tecla.h"
 
+1606609302 source:d:\repositoriogit\projetofilateclado\filateclado\filatecladoarray\tecla.c
+	<stdio.h>
+	<stdlib.h>
+	"Tecla.h"
+
+1606609195 d:\repositoriogit\projetofilateclado\filateclado\filatecladoarray\tecla.h
+	<stdbool.h>
+
+1606609322 source:d:\repositoriogit\projetofilateclado\filateclado\filatecladoarray\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Tecla.h"
+
