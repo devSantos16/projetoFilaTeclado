@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1605480868 source:c:\users\nel_2\documents\projetofilateclado\filateclado\bufferteclado\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tecla.h"
+
+1605480864 c:\users\nel_2\documents\projetofilateclado\filateclado\bufferteclado\tecla.h
+
+1605481018 source:c:\users\nel_2\documents\projetofilateclado\filateclado\bufferteclado\tecla.c
+	<stdio.h>
+	<stdlib.h>
+	"tecla.h"
+
+1606000614 source:d:\repositoriogit\projetofilateclado\filateclado\bufferteclado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tecla.h"
+
+1606000498 d:\repositoriogit\projetofilateclado\filateclado\bufferteclado\tecla.h
+	<stdbool.h>
+
+1606001103 source:d:\repositoriogit\projetofilateclado\filateclado\bufferteclado\tecla.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"tecla.h"
+

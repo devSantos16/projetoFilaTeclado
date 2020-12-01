@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1606611355 source:d:\c projects\aula24novarvore\main.c
+	<stdio.h>
+	<stdlib.h>
+	"node.h"
+
+1606611346 d:\c projects\aula24novarvore\node.h
+
+1606612021 source:d:\c projects\aula24novarvore\node.c
+	<stdio.h>
+	<stdlib.h>
+	"node.h"
+
