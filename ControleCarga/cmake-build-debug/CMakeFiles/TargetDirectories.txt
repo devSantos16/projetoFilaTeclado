@@ -1,0 +1,3 @@
+/Users/fredericojacobi/Cursos/ControleCarga/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/fredericojacobi/Cursos/ControleCarga/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/fredericojacobi/Cursos/ControleCarga/cmake-build-debug/CMakeFiles/ControleCarga.dir

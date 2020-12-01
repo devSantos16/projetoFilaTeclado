@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/fredericojacobi/Cursos/ControleCarga/main.c
+vetor.h
+/Users/fredericojacobi/Cursos/ControleCarga/vetor.h
+
+/Users/fredericojacobi/Cursos/ControleCarga/menu.c
+stdio.h
+-
+vetor.h
+/Users/fredericojacobi/Cursos/ControleCarga/vetor.h
+
+/Users/fredericojacobi/Cursos/ControleCarga/menu.h
+
+/Users/fredericojacobi/Cursos/ControleCarga/vetor.c
+stdio.h
+-
+stdlib.h
+-
+menu.h
+/Users/fredericojacobi/Cursos/ControleCarga/menu.h
+
+/Users/fredericojacobi/Cursos/ControleCarga/vetor.h
+
